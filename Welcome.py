@@ -1,0 +1,7 @@
+print("Welcome to Math dectactive game!")
+print("In this game, you will solve math puzzles to uncover clues and solve mysteries.")
+print("Get ready to put your math skills to the test and have fun!")
+print("Let's get started!")
+print("First, please enter your name:")
+name = input()
+print("Welcome, {name}! Let's begin your adventure in the world of math mysteries!")
