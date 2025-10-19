@@ -17,3 +17,4 @@ else:
 print("What is fibonacci sequence?")
 print("A number sequence where each number is the sum of the two preceding ones, usually starting with 0 and 1.")
 print("Great job on completing the basic questions!")
+print("See you next time bye bye")
