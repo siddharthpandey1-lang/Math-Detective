@@ -20,3 +20,5 @@ print("7, 14, 21, 28, 36, 42")
 answer = input("Your answer: ")
 if answer == "36":
     print("Correct! 36 is not a multiple of 7.")
+else:
+    print("Incorrect. The correct answer is 36 because it is not a multiple of 7.")
